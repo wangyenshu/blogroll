@@ -7,20 +7,10 @@ max_posts_per_feed: 30
 max_posts: 2000
 
 block_words:
-  - cryptocurrency
-  - bitcoin
-  - tesla
-  - github copilot
-  - chatgpt
+
 
 block_domains:
-  - medium.com
-  - substack.com
-  - twitter.com
-  - youtube.com
-  - youtu.be
-  # slow:
-  - feedpress.me
+
 
 discover_depth: 4
 max_recommendations_per_feed: 50
